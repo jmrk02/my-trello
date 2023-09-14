@@ -1,4 +1,4 @@
-# Next.js OpenJira App
+# Next.js MyTrello App
 
 Para correr localmente, se necesita la base de datos
 
